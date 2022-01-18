@@ -1,5 +1,5 @@
 -- README: 
--- This script receives a Hedge FilyCopyCompleted event and sends it to a IFTTT webhook
+-- This script receives a Hedge FilCopyCompleted event and sends it to a IFTTT webhook
 
 -- Hedge vars:
 set FileCopyCompleted_bytesCopied to "FileCopyCompleted_bytesCopied: {FileCopyCompleted_bytesCopied}"
